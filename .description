@@ -1,13 +1,13 @@
 ---
-title: "een titel"
+title: "Responsive campaign website"
 # max 280 characters in description
-description: "korte beschrijving van de taak"
-semester: 1-4
+description: "Responsive campaign website ...."
+semester: 1
 # taskclass will be used to group tasks together in a semester
 # make sure you use a unique name
 taskclass: "naam van taakklasse voor bundeling van taken"
 # level determines the order of tasks in a taskclass
-level: 0-5
+level: 2
 # these criteria determine the skill level of a task compared
 # to the whole curriculum on a 6 point scale. Read the Rubric!
 behavior-criteria:
@@ -20,13 +20,10 @@ behavior-criteria:
 collaborators: 0-8
 # tags are used to categorize tasks
 tags:
-  - opsomming
-  - van
-  - tags
+  - responsive
+  - break-point-graph
 # burn-points determine the weight of a task, 0 is easy and
 # probably fast, 144 takes a whole sprint
-burn-points: 0-144
+burn-points: 144
 ---
 
-# Een titel
-Hier een heldere beschrijving van de taak. Je kunt volledige markdown syntax en links gebruiken maar geen afbeeldingen!
