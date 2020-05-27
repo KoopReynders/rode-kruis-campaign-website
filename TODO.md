@@ -24,7 +24,7 @@ HTML (add html for syntax highlighting for fenced code blocks)
 ```
 
 
-CSS (add `css` for syntax highlighting for fenced code blocks)
+CSS (add ` ```css` for syntax highlighting for fenced code blocks)
 ```css
 @supports (display:flex) {
   body {
