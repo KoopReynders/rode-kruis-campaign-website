@@ -1,5 +1,13 @@
 # Ontwerp en maak een Responsive Campagne website
 
+| Scaffolding| Description | Uitleg |
+| ---: | :----   | :--- |
+| a      | Uitgewerkt voorbeeld |  |
+| b   | Immitatietaak | Er worden voorbeelden van responsive websites gepresenteerd en er bestaat een grafisch voorbeeld, de poster.|
+| c   | Taak zonder een specifiek doel | |
+| d   | Aanvultaak        | |
+| e   | Taak zonder ondersteuning        | |
+
 ```
 Type leertaken:
 a. Uitgewerkt voorbeeld
