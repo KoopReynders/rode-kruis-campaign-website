@@ -44,7 +44,7 @@ CSS
 ```
 
 JAVASCRIPT
-```javascript
+```script
 if(window.Notification){
   if (this.pushApiSup === false) { // Disable if Push Api is supported
     if (window.Notification && Notification.permission !== "granted") {
