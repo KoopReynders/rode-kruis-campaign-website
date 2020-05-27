@@ -7,7 +7,9 @@ Markdown Task Lists notation:
 
 
 
+
 JSON (add ` ```json` for syntax highlighting a fenced code block)
+
 ```json
 {
   "firstName": "John",
@@ -16,7 +18,9 @@ JSON (add ` ```json` for syntax highlighting a fenced code block)
 }
 ```
 
+
 HTML (add ` ```html` for syntax highlighting a fenced code block)
+
 ```html
 <noscript>
   <meta http-equiv="refresh" content="5">
