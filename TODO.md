@@ -7,7 +7,7 @@
 
 
 
-JSON
+JSON (add json for syntax highlighting for fenced code blocks)
 ```json
 {
   "firstName": "John",
@@ -16,7 +16,7 @@ JSON
 }
 ```
 
-HTML
+HTML (add html for syntax highlighting for fenced code blocks)
 ```html
 <noscript>
   <meta http-equiv="refresh" content="5">
@@ -24,7 +24,7 @@ HTML
 ```
 
 
-CSS
+CSS (add `css` for syntax highlighting for fenced code blocks)
 ```css
 @supports (display:flex) {
   body {
@@ -43,7 +43,7 @@ CSS
 }
 ```
 
-JAVASCRIPT
+JAVASCRIPT (add 'js' for syntax highlighting for fenced code blocks)
 ```js
 if(window.Notification){
   if (this.pushApiSup === false) { // Disable if Push Api is supported
