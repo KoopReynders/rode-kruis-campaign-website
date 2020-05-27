@@ -26,7 +26,7 @@ Voor jou en voor hen staan we klaar. Met het grootste vrijwillige hulpverlenersn
 
 ### Materiaal
 - poster voorbeeld
-- teksten (zie (pdf)[https://www.rodekruis.nl/dossiers/coronavirus/nationaal-actieplan-coronavirus/])
+- teksten (zie [pdf](https://www.rodekruis.nl/dossiers/coronavirus/nationaal-actieplan-coronavirus/))
 - foto's
 - logo en huisstijl document
 
