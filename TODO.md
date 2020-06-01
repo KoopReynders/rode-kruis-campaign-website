@@ -59,3 +59,4 @@ if(window.Notification){
    }
 }
 ```
+Voor een overzicht van alle door Github ondersteunde talen: [https://github.com/github/linguist/blob/master/vendor/README.md](https://github.com/github/linguist/blob/master/vendor/README.md)
