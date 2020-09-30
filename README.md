@@ -1,17 +1,5 @@
 # Ontwerp en maak een Responsive Campagne website
 
-|   | Scaffolding | Description |
-| ---: | :----   | :--- |
-| a | Example | Uitgewerkt voorbeeld |
-| b | Duplicate | Immitatietaak: Er worden voorbeelden van responsive websites gepresenteerd en er bestaat een grafisch voorbeeld, de poster. |
-| c | Experiment | Taak zonder een specifiek doel |
-| d | Extension | Aanvultaak |
-| e | Autonomous | Taak zonder ondersteuning |
-
-Rode kruis = Er worden voorbeelden van responsive websites gepresenteerd en er bestaat een grafisch voorbeeld, de poster.
-
-
-
 ## Beschrijving (context)
 Het Rode Kruis start een nieuwe campagne voor Nationaal Actieplan Coronavirus. Hiervoor is de komende twaalf maanden ruim 30 miljoen euro nodig.
 
@@ -51,3 +39,15 @@ Voor jou en voor hen staan we klaar. Met het grootste vrijwillige hulpverlenersn
 7. Website online zetten presenteren + documenteren
 
 ## Criteria
+
+## Niveau van deze taak
+
+|   | Scaffolding | Description |
+| ---: | :----   | :--- |
+| a | Example | Uitgewerkt voorbeeld |
+| **b** | **Duplicate** | **Immitatietaak: Er worden voorbeelden van responsive websites gepresenteerd en er bestaat een grafisch voorbeeld, de poster.** |
+| c | Experiment | Taak zonder een specifiek doel |
+| d | Extension | Aanvultaak |
+| e | Autonomous | Taak zonder ondersteuning |
+
+Rode kruis = Er worden voorbeelden van responsive websites gepresenteerd en er bestaat een grafisch voorbeeld, de poster.
